@@ -1,7 +1,7 @@
 ﻿# LiK-mac-compat
  This is a fork of Legacy iOS Kit that provides support for it to be ran on older macOS versions.
 
-You can run his on a Mac running OS X 10.7 or further. Use cases for this would be:
+You can run this on a Mac running OS X 10.7 or further. Use cases for this would be:
 
 • You have a Mac that is not capable of running the original tool. Here is a list:
 
