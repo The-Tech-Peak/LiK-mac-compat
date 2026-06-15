@@ -5,14 +5,14 @@ You can run this on a Mac running OS X 10.7 or further. Use cases for this would
 
 • You have a Mac that is not capable of running the original tool. Here is a list:
 
-    All PowerPC Macs (Any model made before 2006)
+    
     MacBook Pro (All 2006 and 2007 models)
     MacBook Air (The original Early 2008 model)
     MacBook (All 2006, 2007, and 2008 plastic models)
     iMac (All 2006 models and the 24-inch Late 2006)
     Mac mini (All 2006 and 2007 models)
     Mac Pro (All 2006 and 2007 models)
-    Xserve (All 2006 and 2008 models)
+    
 
 • You want to do this on an older macOS version (whether that be for speed or just looks)
 
